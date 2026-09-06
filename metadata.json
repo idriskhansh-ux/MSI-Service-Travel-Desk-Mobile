@@ -1,0 +1,6 @@
+{
+  "name": "MSI Travel Desk",
+  "description": "Executive Corporate Travel Desk portal for raising travel requests, managing itineraries, vouchers, policy caps, and bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
